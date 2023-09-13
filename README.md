@@ -6,7 +6,7 @@ might stand for incorporated. could be an artistic spelling of the word "ink". m
 INC. a magazine created by some idiot with a little too much time on his hands.
 
 ## ISSUE 1: PILOT
-something about art, time, rainbows, and other shit. releasing soon.
+the first official release of INC. featuring 2 articles by guest writers. things about art, security, rainbows, and more. currently available in PDF, markdown sure to come. released on 9/13/2023.
 
 ## ISSUE 2: CATCH 22
 coming soon.
